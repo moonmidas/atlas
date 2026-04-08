@@ -1,12 +1,16 @@
 # Start Here
 
-This is the fastest way to navigate the atlas on GitHub.
+This vault is a map of business opportunities hiding in plain sight.
 
-## How To Browse
+Inside, you'll find 25 top-level overview notes covering software, services, local businesses, media, commerce, education, and asset-light models. Each overview opens into linked sub-opportunities with angles on business model, economics, positioning, and what makes the niche worth a closer look.
 
-1. Start with one of the 25 overview notes below.
-2. Open the linked sub-opportunities from inside that overview.
-3. Use `README.md` for repo context and `Industries/` for the full library.
+## How To Explore
+
+1. Pick one overview from the categories below.
+2. Open the linked sub-opportunities inside that note.
+3. Follow the rabbit holes that match your interests, skills, or market intuition.
+
+If you're browsing on GitHub, this file is the best launchpad. If you're inside Obsidian, use backlinks and linked notes to go deeper fast.
 
 ## Software
 
@@ -59,7 +63,7 @@ This is the fastest way to navigate the atlas on GitHub.
 
 ## Folder Map
 
-The detailed notes live under these `Industries/` folders:
+The deeper notes live across these `Industries/` folders:
 
 - `Automation`
 - `Community`
